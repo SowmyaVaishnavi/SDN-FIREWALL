@@ -1,6 +1,7 @@
 # SDN-FIREWALL
 
 Problem Statement
+
 Traditional network security relies on static, hardware-bound middleboxes that are difficult to reconfigure and lack centralized visibility. This project demonstrates the implementation of a Software-Defined Networking (SDN) firewall. By leveraging the separation of the control plane and data plane, a centralized POX controller is programmed to manage traffic flows dynamically. The objective is to enforce security policies that permit or deny communication between specific hosts within a Mininet topology through explicit OpenFlow rules and real-time packet inspection.
 
 Setup and Execution Steps
