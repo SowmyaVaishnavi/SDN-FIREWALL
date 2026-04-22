@@ -76,3 +76,5 @@ Firewall Logic: For blocked traffic (h1 to h2), the controller suppresses the pa
 3. Controller Logging and Auditing
 The POX controller terminal provides a real-time audit trail for security events. When a violation of the security policy occurs, the following log is generated:
 INFO: --- FIREWALL: Dropping packet from 10.0.0.1 to 10.0.0.2 ---
+
+<img width="812" height="444" alt="WhatsApp Image 2026-04-16 at 10 49 23 PM" src="https://github.com/user-attachments/assets/3a88bbd7-28bd-4e7c-8d46-21336ebb15f5" />
