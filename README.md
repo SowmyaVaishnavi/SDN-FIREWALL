@@ -60,15 +60,37 @@ INFO: --- FIREWALL: Dropping packet from 10.0.0.1 to 10.0.0.2 ---
 
 <img width="1066" height="640" alt="image" src="https://github.com/user-attachments/assets/f10cd1ba-bdd2-4696-a86c-0f04ecdc8293" />
 
+
+
+
 <img width="1214" height="736" alt="image" src="https://github.com/user-attachments/assets/5b426b41-c164-4ed2-9e27-ddadd4518bfc" />
+
+
+
+
 
 <img width="812" height="444" alt="WhatsApp Image 2026-04-16 at 10 49 23 PM" src="https://github.com/user-
   attachments/assets/97849e12-bbb1-4310-955b-4202bcd6b366" />
 
+
+
+  
+
 <img width="691" height="164" alt="WhatsApp Image 2026-04-16 at 10 49 03 PM" src="https://github.com/user-
     attachments/assets/ab547a70-7a10-4578-9650-f0935ca9446e" />
 
+
+
+
+    
+
 <img width="762" height="358" alt="WhatsApp Image 2026-04-16 at 10 48 14 PM" src="https://github.com/user-attachments/assets/27ad25c6-9840-4988-9caf-25145d0d26a9" />
+
+
+
+
+
+
 
 <img width="657" height="428" alt="WhatsApp Image 2026-04-16 at 10 22 39 PM" src="https://github.com/user-attachments/assets/b7fbb023-b272-438d-8d64-a01ae0fc3bf2" />
 
